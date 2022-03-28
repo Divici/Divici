@@ -17,4 +17,4 @@ Read manga <br>
 Play videogames (see me in Brawlhalla) <br>
 #
 
-##### [💬 Regular communication is really important to me, so let’s keep in touch!](https://david-aihe.com/#contact)
+#### [💬 Let’s keep in touch!](https://david-aihe.com/#contact)
