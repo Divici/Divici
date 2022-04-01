@@ -1,4 +1,5 @@
-# 👋 Hi, I'm David
+![](https://github.com/Divici/Divici/blob/main/Github%20banner.jpg)
+## 👋 About Me
 
 I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/) graduate that is based in Washington DC. <br>
 
