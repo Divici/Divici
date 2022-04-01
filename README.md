@@ -1,7 +1,9 @@
 # 👋 Hi, I'm David
 
-A Full-Stack Developer born in London and based in Washington DC. As an artist, I have a serious passion for creating clean and creative, dynamic user experiences. 
-I recently attended Bloom Tech to further develop my skills and collaborate with like-minded individuals, and look forward to doing the same in the future. <br><br>
+I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/) graduate that is based in Washington DC. <br>
+
+As an artist, I have a serious passion for creating clean and creative, dynamic user experiences. <br>
+
 My current goals are to help clients build professional and interactive websites, gain more experience, and build strong partnerships within the field.
 
 ## 🚀 Technical Skills
