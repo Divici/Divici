@@ -20,8 +20,8 @@ My current goals are to help clients build professional and interactive websites
 [Portfolio](https://david-aihe.com/#contact) |
 [LinkedIn](https://www.linkedin.com/in/david-aihe/)
 
-### 📅 Some Hobbies <br>
-Solving programming problems at Codewars <br>
+### 📅 Some Hobbies 
+<br>Solving programming problems at Codewars <br>
 Physical activity (parkour, workout, soccer) <br>
 Watch anime <br>
 Read manga <br>
