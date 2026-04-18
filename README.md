@@ -1,28 +1,21 @@
 ![](https://github.com/Divici/Divici/blob/main/githubBanner.jpg)
 ## 👋 About Me
 
-I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/) graduate that is based in Washington DC. <br>
+I'm a Full Stack Software Engineer with a combined 3.5 years of experience in developing web apps that blend cutting-edge frontend design with robust backend functionality.<br>
 
-As an artist, I have a serious passion for creating clean and creative, dynamic user experiences. <br>
+As an artist, I enjoy building immersive user experiences by leveraging technologies like React, TypeScript, Tailwind CSS, Java, and Spring Boot, to name a few.<br>
 
-My current goals are to help clients build professional and interactive websites, gain more experience, and build strong partnerships within the field.
+Throughout my journey at JP Morgan, I've contributed to the development of innovative internal solutions that optimize performance, and serve 30k+ end users.<br>
 
-## 🚀 Technical Skills
+I get excited about opportunities where I get to build powerful applications that effectively transform data into visually captivating representations, empowering small and large business owners alike in making well-informed decisions.<br>
 
-**Frontend**: React.js, Redux, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Bootstrap <br>
-**Backend**: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku
-
-
-## 💻 Projects
-[Reciperts](https://reciperts.vercel.app/) | [Plant Water Tracker](https://plant-water-tracker.vercel.app/) | [Divici’s Meadery](https://divici-meadery.vercel.app/)
+If you share a passion for creating impactful software, I'd love to connect and collaborate with you.<br>
 
 ## 💬 Let’s keep in touch!
-[Portfolio](https://david-aihe.com/#contact) |
 [LinkedIn](https://www.linkedin.com/in/david-aihe/)
 
 ### 📅 Some Hobbies 
-<br>Solving programming problems at Codewars <br>
-Physical activity (parkour, workout, soccer) <br>
+Do Triathlons <br>
 Watch anime <br>
 Read manga <br>
 Play videogames (see me in Brawlhalla) <br>
