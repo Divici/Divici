@@ -1,4 +1,4 @@
-![](https://github.com/Divici/Divici/blob/main/githubBanner.jpg)
+![](https://github.com/Divici/Divici/blob/main/ChatGPT%20Image%20Apr%2028%2C%202026%2C%2002_55_31%20PM.png)
 # Hi, I'm David Aihe 👋
 
 ## AI Engineer | Full Stack Software Engineer
