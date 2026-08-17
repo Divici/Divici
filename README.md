@@ -42,7 +42,7 @@ A RAG-powered legacy code intelligence system for exploring and understanding 25
 
 **Tech:** RAG Fusion, semantic retrieval, Pinecone, OpenAI embeddings, grounded answer generation
 
-### [AirOps](https://github.com/Divici/fsp-airOps)
+### [AirOps](https://airops.up.railway.app/)
 A multi-tenant scheduling optimization system combining deterministic workflow orchestration with AI-assisted ranking, messaging, and approval flows.
 
 **Tech:** Next.js, TypeScript, PostgreSQL, Inngest, Twilio, OpenAI
