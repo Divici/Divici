@@ -22,22 +22,27 @@ I’m especially interested in building AI systems that move beyond chat: tools 
 
 ## Featured AI Projects
 
-### ClawdForge
+### [ClawdForge](https://github.com/Divici/clawdforge3)
 An AI software factory that converts prompts into working applications through structured planning, agentic workflows, build/test pipelines, approval gates, and orchestration.
 
 **Tech:** Next.js, TypeScript, LangGraph, Claude Agent SDK, agent workflows, structured planning, testing pipelines
 
-### CamChecklist
+### [BoardForge](https://github.com/Divici/collabBoard)
+A real-time collaborative whiteboard with an integrated AI board agent.
+
+Built using an AI-first development workflow inside Cursor, this project implements multiplayer canvas synchronization, object manipulation, presence awareness, and natural-language-driven board generation.
+
+### [CamChecklist](https://camchecklistweb.up.railway.app/login)
 A multimodal AI checklist application using voice, photo, and natural-language inputs to help users capture and complete tasks in context.
 
 **Tech:** Claude tool use, PostgreSQL, secure auth, Dockerized frontend/backend services, observability
 
-### FortranLens
+### [FortranLens](https://fortran-lens.up.railway.app/)
 A RAG-powered legacy code intelligence system for exploring and understanding 250k+ lines of gfortran source code.
 
 **Tech:** RAG Fusion, semantic retrieval, Pinecone, OpenAI embeddings, grounded answer generation
 
-### AirOps
+### [AirOps](https://github.com/Divici/fsp-airOps)
 A multi-tenant scheduling optimization system combining deterministic workflow orchestration with AI-assisted ranking, messaging, and approval flows.
 
 **Tech:** Next.js, TypeScript, PostgreSQL, Inngest, Twilio, OpenAI
